@@ -1,0 +1,15 @@
+{
+  "name": "techmagic-academy-node",
+  "version": "1.0.0",
+  "description": "An application to find maximum occurring character in .txt file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Oleh Makarov",
+  "license": "MIT",
+  "dependencies": {
+    "@alium212/techmagic-academy-node-npm-packet-task": "^1.0.1"
+  }
+}
